@@ -1,4 +1,3 @@
-var app = angular.module('myApp', []);
 app.controller('AddCtrl', function($scope){
 	$scope.IsHidden = true;
             $scope.ShowHide = function () {

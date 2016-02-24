@@ -1,4 +1,3 @@
-var app = angular.module('myApp', []);
 app.controller('ContactCtrl', function($scope, $http) {
     $scope.contactlist = [
 	{

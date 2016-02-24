@@ -13,12 +13,10 @@
             })
             
             // route for the add new contact
-            .when('/addnew', {
-                templateUrl : 'components/addnew/addnew.html',
-                controller  : 'AddCtrl'
-            })
-
-            
+           // .when('/addnew', {
+            //    templateUrl : 'components/addnew/addnew.html',
+             //   controller  : 'AddCtrl'
+            //})
 
             // route for the contact page
             

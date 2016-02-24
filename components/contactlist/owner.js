@@ -1,4 +1,3 @@
-var app = angular.module('myApp', []);
 
 app.controller('OwnerCtrl', function($scope, $http){
 	$scope.owner = {
